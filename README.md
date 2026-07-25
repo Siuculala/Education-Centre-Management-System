@@ -7,7 +7,7 @@ A C# Windows Forms application for managing education centre records.
 - View all records
 - Edit existing records
 - Delete records
-- Manage Teachers, Administration Staff and Students
+- Manage Teacher, Administration and Student records
 - Validate user input
 
 ## Technologies
